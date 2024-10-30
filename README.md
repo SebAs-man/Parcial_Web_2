@@ -15,7 +15,7 @@ No obstante, debe cumplir con las siguientes reglas:
 
 ## Sobre la API
 
-La API para consumir se encuentra en [este enlace](https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?key=wwLNtSl7Oqz90ubKgOo7ZzoFbQC02NxZSwXXpdCZ).
+La API para consumir se encuentra en [este enlace](https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?api_key=wwLNtSl7Oqz90ubKgOo7ZzoFbQC02NxZSwXXpdCZ).
 
 ## Sobre el estudiante
 

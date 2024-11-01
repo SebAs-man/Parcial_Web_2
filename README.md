@@ -1,4 +1,4 @@
-# Sobre el parcial
+# Sobre el proyecto
 
 El objetivo es crear una página con la siguiente estructura:
 
@@ -6,7 +6,7 @@ El objetivo es crear una página con la siguiente estructura:
 
 [reference]: ./Media/reference.png
 
-No obstante, debe cumplir con las siguientes reglas:
+No obstante, debe cumplir con algunas reglas importantes:
 
 * Cuando el usuario cambie de página los resultados de la página anterior deben ser eliminados de la tabla, y los detalles de la foto deben ser reemplazados por la foto del primer resultado.
 * Cuando el usuario realice una búsqueda por otra fecha, los datos de la tabla deben ser reemplazados por los datos de la nueva consulta, no es válido conservar los datos anteriores y seguir agregando datos a la tabla de resultados.
@@ -15,12 +15,13 @@ No obstante, debe cumplir con las siguientes reglas:
 > [!IMPORTANT]
 > La página debe cargar los resultados de 25 en 25 según la página solicitada.
 
-## Sobre la API
+# Sobre la API
 
 La API para consumir se encuentra en [este enlace](https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?api_key=wwLNtSl7Oqz90ubKgOo7ZzoFbQC02NxZSwXXpdCZ).
 
-## Sobre el estudiante
+# Sobre el desarrollo
 
-Este trabajo se realizó el 30 de octubre del 2024 utilizando JavaScript Vanilla y elaborado por:
+Este trabajo se realizó el 01 de noviembre del 2024, utilizando React y TailWind como framework JavaScript y CSS respectivaente.
+Fue desarrollado por:
 
 * Juan Sebastián Mantilla Serrano - 2211919

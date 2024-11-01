@@ -1,7 +1,7 @@
 # Sobre el parcial
 
-[!NOTE]
-Aquí tienes un concejo
+> [!NOTE]
+> Aquí tienes un concejo
 
 El objetivo es crear una página con la siguiente estructura:
 

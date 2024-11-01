@@ -1,5 +1,8 @@
 # Sobre el parcial
 
+[!NOTE]
+Aquí tienes un concejo
+
 El objetivo es crear una página con la siguiente estructura:
 
 ![alt imagen-de-referencia][reference]

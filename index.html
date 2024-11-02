@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+
+    <!--se da mas informacion al navegador sobre la pagina -->
+    <meta name="description" content="Esta página web permite consultar imágenes y otra información en la API de la nasa sobre Marte."/>
+    <meta name="keywords" content="API Marte Explorador"/>
+    <meta name="author" content="Sebastián Mantilla"/>
+
+    <!-- se agregan algunas herramientas para la pagina -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+    <!-- se anexan los estilos de la pagina -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.png" />
+    <link rel="stylesheet" type="text/css" href="./src/index.css"/>
+    <title>Explorador Marciano</title>
+  </head>
+  <body class="w-screen h-screen bg-[url('/src/assets/mars.svg')] bg-cover bg-center flex justify-center items-center p-0 m-0">
+    <div id="root" class="min-w-[60%] flex-none p-5 glass rounded-box grid grid-cols-[1fr_auto_1fr] text-center prose"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
